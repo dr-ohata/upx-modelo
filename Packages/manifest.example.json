@@ -1,0 +1,8 @@
+{
+  "observacao": "Arquivo demonstrativo. O projeto real deve manter o manifest gerado pela versão utilizada do Unity.",
+  "dependencias_exemplo": [
+    "AR Foundation",
+    "ARCore XR Plugin",
+    "XR Plugin Management"
+  ]
+}

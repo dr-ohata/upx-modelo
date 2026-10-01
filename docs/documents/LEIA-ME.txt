@@ -1,0 +1,8 @@
+Utilize esta pasta para armazenar documentos complementares, por exemplo:
+- persona;
+- jornada do usuário;
+- relatórios de testes;
+- referências técnicas;
+- autorizações ou materiais auxiliares permitidos.
+
+Evite duplicar no repositório arquivos grandes sem necessidade.

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+  <rect width="1200" height="520" fill="#fafafa"/>
+  <text x="55" y="65" font-family="Arial" font-size="34" font-weight="700">Visão Geral do Projeto</text>
+  <g font-family="Arial" text-anchor="middle">
+    <rect x="60" y="175" width="220" height="120" rx="16" fill="#fff" stroke="#333" stroke-width="2"/>
+    <text x="170" y="225" font-size="22">Objeto físico</text><text x="170" y="255" font-size="16">equipamento / alvo</text>
+    <rect x="360" y="150" width="220" height="170" rx="28" fill="#222"/>
+    <rect x="382" y="175" width="176" height="120" rx="12" fill="#ddd"/>
+    <text x="470" y="230" font-size="21">Smartphone</text><text x="470" y="258" font-size="16">câmera + RA</text>
+    <rect x="660" y="175" width="220" height="120" rx="16" fill="#fff" stroke="#333" stroke-width="2"/>
+    <text x="770" y="225" font-size="22">Conteúdo virtual</text><text x="770" y="255" font-size="16">3D + instruções</text>
+    <rect x="960" y="175" width="180" height="120" rx="16" fill="#fff" stroke="#333" stroke-width="2"/>
+    <text x="1050" y="225" font-size="22">Usuário</text><text x="1050" y="255" font-size="16">interação</text>
+    <g stroke="#333" stroke-width="3" fill="#333">
+      <line x1="280" y1="235" x2="355" y2="235"/><polygon points="360,235 348,228 348,242"/>
+      <line x1="580" y1="235" x2="655" y2="235"/><polygon points="660,235 648,228 648,242"/>
+      <line x1="880" y1="235" x2="955" y2="235"/><polygon points="960,235 948,228 948,242"/>
+    </g>
+  </g>
+  <text x="55" y="405" font-family="Arial" font-size="20">Exemplo conceitual: o dispositivo observa o ambiente físico, processa a referência e sobrepõe informação virtual para orientar o usuário.</text>
+</svg>

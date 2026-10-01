@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520">
+  <rect width="1400" height="520" fill="#f8f8f8"/>
+  <text x="55" y="65" font-family="Arial" font-size="34" font-weight="700">Fluxo Técnico da Realidade Aumentada</text>
+  <text x="55" y="98" font-family="Arial" font-size="18">Exemplo: Image Tracking</text>
+  <g font-family="Arial" text-anchor="middle">
+    <g fill="#fff" stroke="#333" stroke-width="2">
+      <rect x="45" y="180" width="170" height="90" rx="14"/>
+      <rect x="250" y="180" width="170" height="90" rx="14"/>
+      <rect x="455" y="180" width="170" height="90" rx="14"/>
+      <rect x="660" y="180" width="170" height="90" rx="14"/>
+      <rect x="865" y="180" width="170" height="90" rx="14"/>
+      <rect x="1070" y="180" width="170" height="90" rx="14"/>
+      <rect x="1270" y="180" width="100" height="90" rx="14"/>
+    </g>
+    <g font-size="20">
+      <text x="130" y="215">Câmera</text><text x="130" y="243" font-size="16">captura</text>
+      <text x="335" y="215">Análise</text><text x="335" y="243" font-size="16">ARCore</text>
+      <text x="540" y="215">Comparação</text><text x="540" y="243" font-size="16">referência</text>
+      <text x="745" y="215">Detecção</text><text x="745" y="243" font-size="16">tracking</text>
+      <text x="950" y="215">Posição</text><text x="950" y="243" font-size="16">pose</text>
+      <text x="1155" y="215">Conteúdo</text><text x="1155" y="243" font-size="16">3D / UI</text>
+      <text x="1320" y="215">Uso</text><text x="1320" y="243" font-size="16">interação</text>
+    </g>
+    <g stroke="#333" stroke-width="3" fill="#333">
+      <line x1="215" y1="225" x2="245" y2="225"/><polygon points="250,225 238,218 238,232"/>
+      <line x1="420" y1="225" x2="450" y2="225"/><polygon points="455,225 443,218 443,232"/>
+      <line x1="625" y1="225" x2="655" y2="225"/><polygon points="660,225 648,218 648,232"/>
+      <line x1="830" y1="225" x2="860" y2="225"/><polygon points="865,225 853,218 853,232"/>
+      <line x1="1035" y1="225" x2="1065" y2="225"/><polygon points="1070,225 1058,218 1058,232"/>
+      <line x1="1240" y1="225" x2="1265" y2="225"/><polygon points="1270,225 1258,218 1258,232"/>
+    </g>
+  </g>
+  <text x="55" y="380" font-family="Arial" font-size="21">A documentação da equipe deve explicar qual técnica de RA utiliza, quais componentes executam cada etapa e o que ocorre quando o reconhecimento falha.</text>
+  <text x="55" y="418" font-family="Arial" font-size="19">Não basta indicar “usa RA”: registre o fluxo técnico real implementado.</text>
+</svg>

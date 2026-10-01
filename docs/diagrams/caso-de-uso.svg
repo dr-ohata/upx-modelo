@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="650" viewBox="0 0 1100 650">
+  <rect width="1100" height="650" fill="#fafafa"/>
+  <text x="55" y="65" font-family="Arial" font-size="34" font-weight="700">Caso de Uso — Exemplo Simplificado</text>
+  <rect x="360" y="110" width="630" height="460" fill="#fff" stroke="#333" stroke-width="2"/>
+  <text x="675" y="145" font-family="Arial" font-size="20" text-anchor="middle">Sistema AR Maintenance Guide</text>
+  <g stroke="#333" fill="#fff" stroke-width="2" font-family="Arial" text-anchor="middle">
+    <ellipse cx="675" cy="220" rx="150" ry="42"/><text x="675" y="227" font-size="19" fill="#000" stroke="none">Iniciar experiência RA</text>
+    <ellipse cx="675" cy="325" rx="150" ry="42"/><text x="675" y="332" font-size="19" fill="#000" stroke="none">Reconhecer referência</text>
+    <ellipse cx="675" cy="430" rx="150" ry="42"/><text x="675" y="437" font-size="19" fill="#000" stroke="none">Visualizar conteúdo 3D</text>
+    <ellipse cx="675" cy="520" rx="150" ry="42"/><text x="675" y="527" font-size="19" fill="#000" stroke="none">Interagir com conteúdo</text>
+  </g>
+  <g stroke="#333" stroke-width="3" fill="none">
+    <circle cx="170" cy="230" r="28"/>
+    <line x1="170" y1="258" x2="170" y2="355"/>
+    <line x1="170" y1="285" x2="120" y2="330"/>
+    <line x1="170" y1="285" x2="220" y2="330"/>
+    <line x1="170" y1="355" x2="125" y2="430"/>
+    <line x1="170" y1="355" x2="215" y2="430"/>
+    <line x1="220" y1="280" x2="525" y2="220"/>
+    <line x1="220" y1="300" x2="525" y2="325"/>
+    <line x1="220" y1="320" x2="525" y2="430"/>
+    <line x1="220" y1="340" x2="525" y2="520"/>
+  </g>
+  <text x="170" y="480" font-family="Arial" font-size="20" text-anchor="middle">Usuário</text>
+</svg>

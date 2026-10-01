@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f4f4f4"/>
+  <text x="60" y="65" font-family="Arial" font-size="34" font-weight="700">Mockup de Interface — Exemplo</text>
+  <text x="60" y="98" font-family="Arial" font-size="18">Substitua por screenshots reais do projeto.</text>
+  <rect x="365" y="125" width="470" height="535" rx="42" fill="#222"/>
+  <rect x="390" y="160" width="420" height="455" rx="18" fill="#dcdcdc"/>
+  <circle cx="600" cy="145" r="7" fill="#777"/>
+  <rect x="430" y="210" width="340" height="235" rx="16" fill="#fff" stroke="#555" stroke-width="2"/>
+  <text x="600" y="270" font-family="Arial" font-size="24" text-anchor="middle">Área da câmera</text>
+  <rect x="515" y="300" width="170" height="95" rx="12" fill="#ededed" stroke="#555" stroke-width="2"/>
+  <text x="600" y="345" font-family="Arial" font-size="20" text-anchor="middle">Objeto 3D</text>
+  <text x="600" y="372" font-family="Arial" font-size="15" text-anchor="middle">conteúdo virtual</text>
+  <rect x="470" y="485" width="260" height="58" rx="14" fill="#fff" stroke="#333" stroke-width="2"/>
+  <text x="600" y="521" font-family="Arial" font-size="20" text-anchor="middle">Iniciar RA</text>
+  <text x="600" y="585" font-family="Arial" font-size="15" text-anchor="middle">Status: procurando referência...</text>
+</svg>

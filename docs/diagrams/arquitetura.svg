@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f7f7f7"/>
+  <text x="60" y="70" font-family="Arial" font-size="34" font-weight="700">Arquitetura do Sistema — Exemplo UPX / RA</text>
+  <text x="60" y="105" font-family="Arial" font-size="18">Modelo didático: substitua pelos componentes reais do projeto.</text>
+  <g font-family="Arial" text-anchor="middle">
+    <rect x="440" y="145" rx="16" ry="16" width="320" height="70" fill="#ffffff" stroke="#333" stroke-width="2"/>
+    <text x="600" y="188" font-size="24">Usuário</text>
+    <line x1="600" y1="215" x2="600" y2="255" stroke="#333" stroke-width="3"/>
+    <polygon points="600,270 592,253 608,253" fill="#333"/>
+
+    <rect x="390" y="270" rx="16" ry="16" width="420" height="72" fill="#ffffff" stroke="#333" stroke-width="2"/>
+    <text x="600" y="314" font-size="24">Interface da Aplicação</text>
+    <line x1="600" y1="342" x2="600" y2="382" stroke="#333" stroke-width="3"/>
+    <polygon points="600,397 592,380 608,380" fill="#333"/>
+
+    <rect x="390" y="397" rx="16" ry="16" width="420" height="72" fill="#ffffff" stroke="#333" stroke-width="2"/>
+    <text x="600" y="441" font-size="24">Controle da Experiência RA</text>
+
+    <line x1="390" y1="433" x2="300" y2="433" stroke="#333" stroke-width="3"/>
+    <polygon points="285,433 302,425 302,441" fill="#333"/>
+    <rect x="65" y="390" rx="16" ry="16" width="220" height="86" fill="#fff" stroke="#333" stroke-width="2"/>
+    <text x="175" y="425" font-size="21">Conteúdo Virtual</text>
+    <text x="175" y="452" font-size="17">Modelos / UI / Texto</text>
+
+    <line x1="810" y1="433" x2="900" y2="433" stroke="#333" stroke-width="3"/>
+    <polygon points="915,433 898,425 898,441" fill="#333"/>
+    <rect x="915" y="390" rx="16" ry="16" width="220" height="86" fill="#fff" stroke="#333" stroke-width="2"/>
+    <text x="1025" y="425" font-size="21">Scripts</text>
+    <text x="1025" y="452" font-size="17">C# / lógica</text>
+
+    <line x1="600" y1="469" x2="600" y2="509" stroke="#333" stroke-width="3"/>
+    <polygon points="600,524 592,507 608,507" fill="#333"/>
+    <rect x="390" y="524" rx="16" ry="16" width="420" height="72" fill="#fff" stroke="#333" stroke-width="2"/>
+    <text x="600" y="568" font-size="24">AR Foundation / ARCore</text>
+
+    <line x1="600" y1="596" x2="600" y2="628" stroke="#333" stroke-width="3"/>
+    <polygon points="600,643 592,626 608,626" fill="#333"/>
+    <rect x="360" y="643" rx="16" ry="16" width="480" height="58" fill="#fff" stroke="#333" stroke-width="2"/>
+    <text x="600" y="680" font-size="22">Câmera + Sensores + Ambiente Físico</text>
+  </g>
+</svg>
